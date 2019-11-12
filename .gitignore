@@ -1,0 +1,11 @@
+**/env
+**/datasets
+**/__pycache__
+/project
+
+*.zip
+*.pyc
+*.swp
+
+#Ipython Notebook
+.ipynb_checkpoints
